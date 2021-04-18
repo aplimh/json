@@ -1,25 +1,25 @@
 {
   "agenda": [
     {
-    id: 1,
-    ora: "10:00",
-    titlu: "Întâlnire cu presa",
-    loc: "Sala G114",
-    descriere: "Nu este cazul"
+    "id": 1,
+    "ora": "10:00",
+    "titlu": "Întâlnire cu presa",
+    "loc": "Sala G114",
+    "descriere": "Nu este cazul"
   },
   {
-    id: 2,
-    ora: "12:00",
-    titlu: "Pauza de cafea",
-    loc: "Birou",
-    descriere: "Nu este cazul"
+    "id": 2,
+    "ora": "12:00",
+    "titlu": "Pauza de cafea",
+    "loc": "Birou",
+    "descriere": "Nu este cazul"
   },
   {
-    id: 3,
-    ora: "14:30",
-    titlu: "Skype cu USA",
-    loc: "Acasă",
-    descriere: "Discuții proiect."
+    "id": 3,
+    "ora": "14:30",
+    "titlu": "Skype cu USA",
+    "loc": "Acasă",
+    "descriere": "Discuții proiect."
   }
   ]
 }
