@@ -3,7 +3,7 @@
     {
     "id": 1,
     "ora": "10:00",
-    "titlu": "Întâlnire cu presa",
+    "titlu": "Intalnire cu presa",
     "loc": "Sala G114",
     "descriere": "Nu este cazul"
   },
@@ -18,8 +18,8 @@
     "id": 3,
     "ora": "14:30",
     "titlu": "Skype cu USA",
-    "loc": "Acasă",
-    "descriere": "Discuții proiect."
+    "loc": "Acasa",
+    "descriere": "Discutii proiect."
   }
   ]
 }
